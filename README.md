@@ -2,7 +2,7 @@
 
 ## Overview
 
-Secure Chat is an end-to-end encrypted messaging platform that ensures private and secure communication. The application employs AES-256 encryption for messages, guaranteeing confidentiality. Messages are encrypted before transmission and only decrypted at the recipient's end.
+SafeChat is an end-to-end encrypted messaging platform that ensures private and secure communication. The application employs AES-256 encryption for messages, guaranteeing confidentiality. Messages are encrypted before transmission and only decrypted at the recipient's end.
 
 ## Features
 
